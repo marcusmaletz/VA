@@ -1,0 +1,7 @@
+{
+  "name": "ANY EVER Voice Agent",
+  "description": "A voice-enabled interactive agent for the ANY EVER digital audio agency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
